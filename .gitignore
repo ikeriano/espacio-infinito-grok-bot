@@ -1,0 +1,8 @@
+build/
+.gradle/
+local.properties
+keys/
+app/build/
+dist/
+app/libs/*.jar
+app/src/main/jniLibs/
